@@ -1,0 +1,12 @@
+{
+  "description": "Email Automation",
+  "version": "2017.1.6291.29409",
+  "main": "Main.xaml",
+  "id": "Email Automation",
+  "dependencies": {},
+  "configurationOptions": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ]
+}
